@@ -53,7 +53,7 @@ Sebaiknya cukup isi salah satu atribut (misalnya width) agar gambar tetap propor
 # Langkah - Langkah Pratikum
 
 
-### langkah 1.png Membuat File HTML Dasar
+### [foto](https://github.com/dirarohmaeni/Lab1Web/blob/9f55564c115dde1bb6342fdd02b272480d18ab76/lab1_halaman2.html) Membuat File HTML Dasar
 
 
 Saya membuat file baru bernama lab1_tag_dasar.html dengan struktur HTML yang ada pada modul.
