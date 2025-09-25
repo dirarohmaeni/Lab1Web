@@ -61,3 +61,10 @@ Setelah itu file ini akan digunakan untuk menambahkan elemen-elemen HTML berikut
 ![Struktur HTML Dasar](https://github.com/dirarohmaeni/Lab1Web/blob/5b53c1b0eb8bd30c60e78e7e516dba0d4139a5e1/langkah%201.png)
 
 
+### 2. Langkah 2 – Membuat Paragraf
+Saya menambahkan dua paragraf menggunakan tag <p>.
+Paragraf pertama berisi pengenalan singkat, dan paragraf kedua berisi contoh teks tambahan.
+Saya juga mencoba atribut align (center, right, left, justify) untuk melihat perbedaan posisi teks.
+
+
+![Struktur HTML Dasar](https://github.com/dirarohmaeni/Lab1Web/blob/9a22977c1ad026be3d2fb620bd39b031c58854f5/langkah%202.png)
