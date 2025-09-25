@@ -10,90 +10,35 @@ Kelas: TI.24.A5
 
 
 
-# HTML
-
-
-- Sebuah bahasa markup yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi di dalam sebuah browser.
+# Jawab Pertanyaan Berikut
 
 
 
-- HTML berupa kode-kode tag yang menginstruksikan browser untuk menghasilkan tampilan sesuai dengan yang diinginkan.
+## 1. Apa yang terjadi jika ada error penulisan tag HTML?
 
 
 
-- HTML saat ini merupakan standar Internet yang didefinisikan dan dikendalikan penggunaannya oleh World Wide Web Consortium (W3C).
+Browser masih menampilkan halaman, tapi tampilan bisa berantakan atau ada elemen yang tidak muncul.
 
 
 
-# 1. Lakukan perubahan pada kode sesuai keinginan, amati error ketika salah penulisan tag
+## 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 
+<p> membuat paragraf baru dengan jarak, sedangkan <br> hanya memindahkan teks ke baris berikutnya.
+3. Apa perbedaan atribut 'title' dan 'alt' pada tag <img>, berikan penjelasannya!
 
+title muncul sebagai tooltip saat gambar di-hover, sedangkan alt adalah teks alternatif jika gambar gagal dimuat.
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan Penjelasannya!
 
-kesalahan menulis tag (misalnya <tittle> bukan <title> atau <mrk> bukan <mark>), browser biasanya tidak error fatal (nggak berhenti menampilkan halaman), tapi hasilnya tidak sesuai harapan.
+Sebaiknya cukup isi salah satu atribut (misalnya width) agar gambar tetap proporsional. Jika keduanya diisi tidak sesuai rasio asli, gambar bisa terdistorsi.
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
+    _blank → link terbuka di tab/jendela baru.
 
+    _self → link terbuka di tab yang sama (default).
 
-Contoh: <tittle> → browser abaikan, jadi judul halaman kosong.
+    _top → link terbuka di jendela utama, menimpa semua frame.
 
-
-
-<mrk> → browser tidak kenal, jadinya dianggap teks biasa.
-
-
-
-<a href="...Halaman 2></a> → link rusak, tidak bisa diklik.
-
-
-# 2. Perbedaan <p> dan <br>
-
-
-<p>Ini paragraf pertama.</p>
-<p>Ini paragraf kedua.</p>
-
-
-
-Ini baris pertama <br>
-Ini baris kedua <br/>
-
-
-# 3. Perbedaan atribut title dan alt pada <img>
-
-
-alt (alternative text) → muncul jika gambar gagal dimuat. Juga dibaca screen reader untuk aksesibilitas.
-
-
-
-title → teks tambahan yang muncul sebagai tooltip saat kursor diarahkan ke gambar.
-
-
-# 4. Width & Height pada gambar
-
-
-Kalau hanya isi salah satunya (misalnya width saja) → browser akan otomatis menyesuaikan yang lain agar gambar tetap proporsional (tidak gepeng).
-
-Kalau isi dua-duanya (width & height) → kalau angkanya tidak sesuai rasio asli gambar, gambar bisa jadi melebar atau memanjang tidak proporsional.
-
-
-# 5. Atribut target pada link (<a>)
-
-
-Atribut target menentukan di mana halaman tujuan dibuka:
-
-
-
-target="_blank" → buka link di tab baru / jendela baru.
-
-
-
-target="_self" → buka link di tab yang sama (default).
-
-
-
-target="_top" → buka link di jendela paling atas, berguna kalau ada frame/iframe.
-
-
-
-target="_parent" → buka link di halaman induk dari iframe (kalau ada).
-
+    _parent → link terbuka di frame induk (jika ada frame).
 
 
