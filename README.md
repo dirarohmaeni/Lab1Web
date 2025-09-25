@@ -68,3 +68,51 @@ Saya juga mencoba atribut align (center, right, left, justify) untuk melihat per
 
 
 ![Struktur HTML Dasar](https://github.com/dirarohmaeni/Lab1Web/blob/9a22977c1ad026be3d2fb620bd39b031c58854f5/langkah%202.png)
+
+
+### Langkah 3 – Menambahkan Judul
+Saya menambahkan heading <h1> sebagai judul utama, dan <h2> sebagai subjudul.
+Heading membuat tampilan halaman lebih terstruktur dan mudah dibaca.
+
+
+![Struktur HTML Dasar](https://github.com/dirarohmaeni/Lab1Web/blob/0065f7d3aae1b09cd16c8d8af294573beafcb976/langkah%203.png)
+
+
+### Langkah 4 – Pemformatan Teks
+Saya mencoba beberapa tag pemformatan seperti <b>, <i>, <u>, dan <mark>.
+Dengan tag ini, teks bisa dibuat tebal, miring, bergaris bawah, atau diberi highlight.
+
+
+![Struktur HTML Dasar](https://github.com/dirarohmaeni/Lab1Web/blob/0065f7d3aae1b09cd16c8d8af294573beafcb976/langkah%204.png)
+
+
+### Langkah 5 – Menyisipkan Gambar
+Saya menambahkan gambar dengan tag <img>.
+File gambar disimpan dalam folder yang sama dengan file HTML.
+Saya juga menambahkan atribut width, alt, dan title untuk mengatur ukuran serta deskripsi gambar.
+
+
+![Struktur HTML Dasar](https://github.com/dirarohmaeni/Lab1Web/blob/0065f7d3aae1b09cd16c8d8af294573beafcb976/langkah%205.png)
+
+
+### Langkah 6 – Menambahkan Hyperlink
+
+Saya menambahkan hyperlink menggunakan tag <a>.
+Ada tiga jenis link yang saya buat:
+
+    Link ke halaman utama (lab1_tag_dasar.html)
+
+    Link ke halaman kedua (lab1_halaman2.html)
+
+    Link ke website eksternal (Google)
+
+Hyperlink HTML
+
+
+![Struktur HTML Dasar](https://github.com/dirarohmaeni/Lab1Web/blob/0065f7d3aae1b09cd16c8d8af294573beafcb976/langkah%206.png)
+
+
+### Kesimpulan
+
+
+Dari praktikum ini saya jadi memahami struktur dasar HTML, cara membuat paragraf, heading, pemformatan teks, menambahkan gambar, serta membuat hyperlink. Praktikum ini juga melatih ketelitian, karena kesalahan kecil pada penulisan tag bisa memengaruhi hasil tampilan di browser.
